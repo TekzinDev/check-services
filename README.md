@@ -66,7 +66,7 @@ O programa irá monitorar e alertar qualquer tentativa de parar/desabilitar os s
  | |____| | | |  __/ (__|   <  ____) |  __/ |   \ V /| | (_|  __/\__ \
   \_____|_| |_|\___|\___|_|\_\|_____/ \___|_|    \_/ |_|\___\___||___/
 
-                        [ v2.0 - Service Monitor ]
+                        [ v1.0 - Service Monitor ]
 
   [OK] Executando como Administrador
   [*] Log: check_services.log
